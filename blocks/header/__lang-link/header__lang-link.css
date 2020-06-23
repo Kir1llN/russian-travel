@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .header__lang-link {
     padding: 18px 0 6px;
     text-decoration: none;
@@ -13,4 +14,21 @@
 
 .header__lang-link:hover {
     opacity: .8;
+=======
+.header__lang-link {
+    padding: 18px 0 6px;
+    text-decoration: none;
+    color: #fff;
+    transition: opacity .2s linear;
+}
+
+@media screen and (max-width: 720px) {
+    .header__lang-link {
+        padding: 14px 4px 0;
+    }
+}
+
+.header__lang-link:hover {
+    opacity: .8;
+>>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
 }

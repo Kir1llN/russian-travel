@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__paragraph {
     font-size: 18px;
     line-height: 1.67;
@@ -15,4 +16,23 @@
     .place__paragraph {
         padding: 0 16px;
     }
+=======
+.place__paragraph {
+    font-size: 18px;
+    line-height: 1.67;
+    margin: 0;
+}
+
+@media screen and (max-width: 800px) {
+    .place__paragraph {
+        font-size: 16px;
+        line-height: 1;
+        
+    }
+}
+@media screen and (max-width: 720px){
+    .place__paragraph {
+        padding: 0 16px;
+    }
+>>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
 }

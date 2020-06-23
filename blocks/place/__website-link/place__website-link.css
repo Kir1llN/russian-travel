@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .place__website-link {
     color: #fff;
     font-size: 18px;
@@ -7,4 +8,15 @@
 
 .place__website-link:hover {
     opacity: .8;
+=======
+.place__website-link {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.2;
+    transition: opacity .2s linear;
+}
+
+.place__website-link:hover {
+    opacity: .8;
+>>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
 }

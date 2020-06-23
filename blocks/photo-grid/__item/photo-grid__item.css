@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 .photo-grid__item {
     max-width: 100%;
     object-fit: cover;
+=======
+.photo-grid__item {
+    max-width: 100%;
+    object-fit: cover;
+>>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
 }

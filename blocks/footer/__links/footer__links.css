@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__links {
     display: flex;
     list-style-type: none;
@@ -12,4 +13,20 @@
         justify-content: space-between;
         height: 248px;
     }
+=======
+.footer__links {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;   
+}
+
+@media screen and (max-width: 720px){
+    .footer__links {
+        flex-direction: column;
+        margin-bottom: 48px;
+        justify-content: space-between;
+        height: 248px;
+    }
+>>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
 }
