@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url(../lead/__title/lead__title.css);
 @import url(../lead/__subtitle/lead__subtitle.css);
 @import url(../lead/__image/lead__image.css);
@@ -25,32 +24,4 @@
     .lead {
         padding: 48px 0 64px;
     }
-=======
-@import url(../lead/__title/lead__title.css);
-@import url(../lead/__subtitle/lead__subtitle.css);
-@import url(../lead/__image/lead__image.css);
-@import url(../lead/__caption/lead__caption.css);
-
-.lead {
-    max-width: 984px;
-    padding: 56px 148px 92px;
-    margin: 0 auto;
-}
-
-@media screen and (max-width: 1050px){
-    .lead {
-      padding: 48px 48px 92px;
-    }
-  }
-@media screen and (max-width: 800px) {
-    .lead {
-        padding: 48px 0 88px;
-    }
-}
-
-@media screen and (max-width: 720px) {
-    .lead {
-        padding: 48px 0 64px;
-    }
->>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
 }

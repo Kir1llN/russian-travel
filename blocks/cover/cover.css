@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url(../cover/__link/cover__link.css);
 @import url(../cover/__background/cover__background.css);
 @import url(../cover/__title/cover__title.css);
@@ -35,41 +34,3 @@
 
   
 
-=======
-@import url(../cover/__link/cover__link.css);
-@import url(../cover/__background/cover__background.css);
-@import url(../cover/__title/cover__title.css);
-@import url(../cover/__subtitle/cover__subtitle.css);
-.cover {
-  margin: 0 auto;
-  padding: 92px 48px;
-  width: 100%;
-  box-sizing: border-box;
-}
-
-@media screen and (max-width: 1050px) {
-    .cover {
-      padding: 92px 0;
-    }
-}
-  
-  @media screen and (max-width: 800px) {
-    .cover {
-      padding: 88px 0;
-    }
-}
-  @media screen and (max-width: 720px) {
-    .cover {
-      padding: 64px 0;
-    }
-}
-
-
-
-
-
-
-
-  
-
->>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d

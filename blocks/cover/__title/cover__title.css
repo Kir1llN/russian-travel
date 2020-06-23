@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .cover__title {
     margin: 0 0 32px;
     font-weight: 900;
@@ -15,22 +14,4 @@
       line-height: 1.1;
       margin-bottom: 16px;
     }
-=======
-.cover__title {
-    margin: 0 0 32px;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 1.05;
-    text-align: center;
-    z-index: 2;
-    text-rendering: optimizeLegibility;
-  }
-  
-  @media screen and (max-width: 720px) {
-    .cover__title {
-      font-size: 32px;
-      line-height: 1.1;
-      margin-bottom: 16px;
-    }
->>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
   }

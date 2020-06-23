@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @import url(../photo-grid/__item/photo-grid__item.css);
 .photo-grid {
     padding: 0 48px;
@@ -30,36 +29,3 @@
         grid-gap: 12px;
     }
 }
-=======
-@import url(../photo-grid/__item/photo-grid__item.css);
-.photo-grid {
-    padding: 0 48px;
-    margin: 0;
-    max-width: 1184px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
-    list-style-type: none;
-    grid-gap: 16px;
-}
-
-@media screen and (max-width: 1050px) {
-    .photo-grid {
-        padding: 0 48px;
-        grid-gap: 14px;
-    }
-}
-  
-  @media screen and (max-width: 800px) {
-    .photo-grid {
-        padding: 0 24px;
-        grid-gap: 16px;
-    }
-}
-
-@media screen and (max-width: 720px) {
-    .photo-grid {
-        padding: 0 16px;
-        grid-gap: 12px;
-    }
-}
->>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d

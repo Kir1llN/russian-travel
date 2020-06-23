@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 .header__lang-link_active {
     text-decoration-line: underline;
     padding: 0;
     margin-right: 18px;
-=======
-.header__lang-link_active {
-    text-decoration-line: underline;
-    padding: 0;
-    margin-right: 18px;
->>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
 }

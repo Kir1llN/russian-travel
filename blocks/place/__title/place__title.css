@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .place__title {
     font-size: 72px;
     line-height: 1.05;
@@ -22,29 +21,4 @@
         line-height: 1.1;
         padding: 0 16px 32px;
     }
-=======
-.place__title {
-    font-size: 72px;
-    line-height: 1.05;
-    font-weight: 900;
-    margin: 0;
-    display: grid;
-    grid-area: title;
-    text-rendering: optimizeLegibility;
-}
-
-@media screen and (max-width: 800px) {
-    .place__title {
-        font-size: 42px;
-        line-height: 1.1;
-    }
-}
-
-@media screen and (max-width: 720px){
-    .place__title {
-        font-size: 32px;
-        line-height: 1.1;
-        padding: 0 16px 32px;
-    }
->>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
 }

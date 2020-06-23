@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .places {
     margin: 0 auto;
     padding: 92px 148px 0;
@@ -45,51 +44,3 @@
 
 
 
-=======
-.places {
-    margin: 0 auto;
-    padding: 92px 148px 0;
-    max-width: 984px;
-    display: flex;
-    flex-direction: column;
-    list-style-type: none;
-}
-
-@media screen and (max-width: 1050px) {
-    .places {
-        padding: 92px 48px 0;
-    }
-}
-  
-  @media screen and (max-width: 800px) {
-    .places {
-        padding: 88px 24px 0;
-    }
-}
-
-@media screen and (max-width: 720px) {
-    .places {
-        padding: 64px 0 0;
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> e59d08b4874c7e79198d1741fca9f552cd3fc56d
