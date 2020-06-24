@@ -1,4 +1,4 @@
-@import url(../photo-grid/__item/photo-grid__item.css);
+@import url(./__item/photo-grid__item.css);
 .photo-grid {
     padding: 0 48px;
     margin: 0;

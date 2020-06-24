@@ -1,10 +1,9 @@
-@import url(../place/__image/place__image.css);
-@import url(../place/__paragraph/place__paragraph.css);
-@import url(../place/__paragraph/_margin-bottom/place__paragraph_margin-bottom.css);
-@import url(../place/__title/place__title.css);
-@import url(../place/__website-link/place__website-link.css);
-@import url(../place/__website-url-heading/place__website-url-heading.css);
-@import url(../place/__website/place__website.css);
+@import url(./__image/place__image.css);
+@import url(./__paragraph/place__paragraph.css);
+@import url(./__title/place__title.css);
+@import url(./__website-link/place__website-link.css);
+@import url(./__website-url-heading/place__website-url-heading.css);
+@import url(./__website/place__website.css);
 
 .place {
     display: grid;
