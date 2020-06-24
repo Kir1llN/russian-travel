@@ -11,5 +11,6 @@
         margin-bottom: 48px;
         justify-content: space-between;
         height: 248px;
+        /* Почему в данном блоке не удалось установить маржины этим элементам?*/
     }
 }
